@@ -95,7 +95,7 @@ heroTl.fromTo(
   return (
     <section className="w-screen h-screen relative overflow-hidden">
       {/* Text Content */}
-      <div className="w-full h-full flex flex-col lg:justify-center py-3 px-4 md:pl-16 lg:mb-0 mb-7">
+      <div className="w-full h-full flex flex-col justify-center py-3 px-4 md:pl-16 lg:mb-0 mb-7">
         <h2  ref={heroH2Ref} className="text-xl lg:text-2xl font-poppinsIta py-2">
           Diesel Fuel, solutions delivered 
         </h2>
