@@ -5,7 +5,7 @@ import Header from "./Trolico/Header";
 
 export const metadata = {
   title: "Trellio",
-  description: "a DEF and Disel fuel solution company",
+  description: "Full-Service DEF And Diesel Fuel Solutions",
 };
 
 export default function RootLayout({ children }) {
